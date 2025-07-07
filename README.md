@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🏴‍☠️ Eth3rnLi1uk
 
-<!--
-**Liiuk99/Liiuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm **Luca (aka LiiukEth3r)**
 
-Here are some ideas to get you started:
+☣️ Cybersecurity Student | 💻 Front-End Developer | 🐚 CTF player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 Currently diving into exploit development and offensive security  
+- ⚡ Skilled with: HTML5, CSS3, JS, PHP, Etc.  
+- 🛠️ Tools: Kali Linux, Nessus, Metasploit and lots
+- 🎯 Always learning, always building
+
+---
+
+### 🕶️ Contact me
+
+- 💬 [LinkedIn](https://www.linkedin.com/in/luca-gerlero)  
+
+---
+
+> *“In the ether, no one sees your shell.”*
